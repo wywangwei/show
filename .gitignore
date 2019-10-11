@@ -10,10 +10,5 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-<<<<<<< HEAD
-/database/migrations/
-/.idea
-=======
 /database/migrations/*.php
-/.idea/*
->>>>>>> feature-login
+/.idea
